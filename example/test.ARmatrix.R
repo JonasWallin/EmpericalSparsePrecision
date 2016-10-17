@@ -1,5 +1,5 @@
 library(methods)
-library(EmpericalSparsePrecision)
+library(EmpiricalSparsePrecision)
 library(Matrix)
 d <- 100
 a <- 0.9

@@ -1,5 +1,5 @@
 library(methods)
-library(EmpericalSparsePrecision)
+library(EmpiricalSparsePrecision)
 library(testthat)
 library(Matrix)
 
